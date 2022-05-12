@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 82053856}
   m_Layer: 0
-  m_Name: MAP main
+  m_Name: JSONObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
